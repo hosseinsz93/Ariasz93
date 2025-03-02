@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 # header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_text: Welcome
+header_text: Welcome to my personal website! Here, you'll find my CV and an overview of my ongoing research projects.
 header_feature_image: assets/img/header/HS.jpg
 header_feature_image_responsive: true
 footer_text: >
