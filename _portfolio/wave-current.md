@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wave-Current simulation
+title: MHK turbine simulation
 img: "assets/img/portfolio/mhk.png"
 date: 20-10-2017
 tags: [Lorem]
