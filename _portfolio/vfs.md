@@ -2,7 +2,7 @@
 layout: post
 title: Virtual Flow Simulator (VFS Geophysics) User Manual  
 img: "assets/img/portfolio/vfs.png"  
-date: September 2014  
+date: July 2023  
 ---
 
 The source code and user manual are available here: [OSTI Repository](https://www.osti.gov/biblio/1997004).  
