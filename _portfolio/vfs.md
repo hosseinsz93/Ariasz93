@@ -20,7 +20,7 @@ This project focuses on updating the user manual for the open-source **Virtual F
 
 ### Video Tutorials  
 
-Watch our YouTube tutorials for a step-by-step guide on using VFS Geophysics:  
+Watch our YouTube videos to see sample simulation results using VFS Geophysics:  
 
 - [Turbine geometry resolving simulation](https://youtu.be/EV9pvWQRSC0)
 - [Actuator disk method](https://youtu.be/tYO5VASpVSw) 
